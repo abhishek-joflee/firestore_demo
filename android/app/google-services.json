@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1098094954052",
+    "project_id": "firestore-demo-okby",
+    "storage_bucket": "firestore-demo-okby.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1098094954052:android:4f862c5ee35cfc0e861e11",
+        "android_client_info": {
+          "package_name": "com.example.firestore_demo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1098094954052-k6n3k6aa2tlog8k68nr64c2seepnd6e3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBz4aOmMMWqhC_jQMHv9wW4SuR90e0O_n4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1098094954052-k6n3k6aa2tlog8k68nr64c2seepnd6e3.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
